@@ -1,0 +1,14 @@
+
+public class NullpointerException {
+
+	public static void main(String[] args) {
+		int[][] a=new int[2][];
+		
+		System.out.println(a.length);
+		int b=123456;
+		String abc=String.valueOf(b);
+		System.out.println(abc.length());
+
+	}
+
+}
