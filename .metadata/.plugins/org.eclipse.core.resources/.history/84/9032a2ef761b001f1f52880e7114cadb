@@ -6,7 +6,7 @@ public class Lecture1 {
 //		System.out.println("es ist gut tag");
 //	}
 	public static void main(String[] args) {
-		//commitment
+		
 //	Lecture1 lc=new Lecture1();
 //	lc.getstatus();
 //		getstatus();

@@ -12,6 +12,7 @@ public class Lecture4 {
 				System.out.print(c+" ");
 				
 			}
+			
 			System.out.println();
 			
 			
